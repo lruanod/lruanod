@@ -1,7 +1,7 @@
 
 ##  Hola! Mi Nombre es 
 
-![](https://repository-images.githubusercontent.com/lruanod/lruanod/master/img/fondogit.png)
+![](https://raw.githubusercontent.com/lruanod/lruanod/master/img/fondogit.png)
 <!-- ![](https://repository-images.githubusercontent.com/279038181/2fd7c200-c3fe-11ea-88fb-9168a2cc001d) -->
 
 
