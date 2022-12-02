@@ -17,19 +17,19 @@
 <code><img height="30" src="https://raw.githubusercontent.com/lruanod/lruanod/master/img/pyton.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/lruanod/lruanod/master/img/django.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/lruanod/lruanod/master/img/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/boot.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/android.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/PHP.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/laravel.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/livewire.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/phpmyadmin.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Materializecss.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Bootstrap.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Xd.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Ilustrator.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Photoshop.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/oracle.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/lruanod/lruanod/master/img/boot.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/lruanod/lruanod/master/img/android.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/lruanod/lruanod/master/img/PHP.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/lruanod/lruanod/master/img/laravel.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/lruanod/lruanod/master/img/livewire.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/lruanod/lruanod/master/img/phpmyadmin.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/lruanod/lruanod/master/img/Git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/lruanod/lruanod/master/img/Materializecss.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/lruanod/lruanod/master/img/Bootstrap.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/lruanod/lruanod/master/img/Xd.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/lruanod/lruanod/master/img/Ilustrator.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/lruanod/lruanod/master/img/Photoshop.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/lruanod/lruanod/master/img/oracle.png"></code>
 
 ## Donde me puedes encontrar
 
