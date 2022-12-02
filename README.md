@@ -20,7 +20,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/lruanod/lruanod/master/img/boot.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/lruanod/lruanod/master/img/android.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/lruanod/lruanod/master/img/php.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/lruanod/lruanod/master/img/laravel.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/lruanod/lruanod/master/img/Laravel.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/lruanod/lruanod/master/img/livewire.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/lruanod/lruanod/master/img/phpmyadmin.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/lruanod/lruanod/master/img/Git.png"></code>
@@ -45,7 +45,7 @@ _Personal_
 #### Si te sirvio, picale a **Stars**, tambien puedes darle **Fork** o mandame un tuit y dime que podemos mejorarle. ✌️
 
 ![GitHub stars](https://img.shields.io/github/stars/lruanod/lruanod?style=social)
-![GitHub forks](https://img.shields.io/github/forks/lruanod?label=Fork&style=social)
+![GitHub forks](https://img.shields.io/github/forks/lruanod/lruanod?label=Fork&style=social)
 ![GitHub followers](https://img.shields.io/github/followers/lruanod?label=Follow&style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/lruanod/lruanod?style=social)
 <a href=""><img src="https://raw.githubusercontent.com/lruanod/lruanod/master/img/ing3.png" width="65px" height="25px" align="right" /></a>
