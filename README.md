@@ -19,7 +19,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/lruanod/lruanod/master/img/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/lruanod/lruanod/master/img/boot.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/lruanod/lruanod/master/img/android.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/lruanod/lruanod/master/img/PHP.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/lruanod/lruanod/master/img/php.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/lruanod/lruanod/master/img/laravel.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/lruanod/lruanod/master/img/livewire.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/lruanod/lruanod/master/img/phpmyadmin.png"></code>
